@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      "angular-print@0.3.8",
+      "C:\\Users\\heinrich.heine\\Source2\\Bidvest_McCarthy_Mercury_Source"
+    ]
+  ],
+  "_from": "angular-print@0.3.8",
+  "_id": "angular-print@0.3.8",
+  "_inBundle": false,
+  "_integrity": "sha512-FUqgDOrKZ4YGkHjep+Z+hYzKBmE5X7EIFxEnpXAjb5AEjENUvAx8cbzWJYfaOArDsmrlsfBciTlOxPA9Wq0Qsg==",
+  "_location": "/angular-print",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "angular-print@0.3.8",
+    "name": "angular-print",
+    "escapedName": "angular-print",
+    "rawSpec": "0.3.8",
+    "saveSpec": null,
+    "fetchSpec": "0.3.8"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular-print/-/angular-print-0.3.8.tgz",
+  "_spec": "0.3.8",
+  "_where": "C:\\Users\\heinrich.heine\\Source2\\Bidvest_McCarthy_Mercury_Source",
+  "author": {
+    "name": "Sam Duzett",
+    "email": "samuel.duzett@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/samwiseduzer/angularPrint/issues"
+  },
+  "description": "Angular module that allows the user to selectively print, as well as provides optimizations for printing a table.",
+  "homepage": "https://github.com/samwiseduzer/angularPrint#readme",
+  "keywords": [
+    "angular",
+    "angularJS",
+    "print",
+    "media",
+    "query",
+    "table",
+    "select"
+  ],
+  "license": "MIT",
+  "main": "angularPrint.js",
+  "name": "angular-print",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samwiseduzer/angularPrint.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.3.8"
+}
